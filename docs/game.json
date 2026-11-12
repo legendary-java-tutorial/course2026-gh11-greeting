@@ -1,6 +1,6 @@
 {
   "theme": "Числа",
-  "greeting": "Режимы: classic, quick",
+  "greeting": "Классика или молния? Выбирай режим!",
   "modes": {
     "quick": {
       "min": 1,
